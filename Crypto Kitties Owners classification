@@ -1,8 +1,8 @@
-# Who got a Crypto Kitty?
+Who got a Crypto Kitty?
 
-### Case for NYU workshop on Blockchain Address Classification
+# Case for NYU workshop on Blockchain Address Classification
 
-## Problem Formulation
+Problem Formulation
 
 We will  classify addresses, which own crypto kitties, as a class of "Crypto Kitties Owners".
 
@@ -11,7 +11,7 @@ of kitties, based just on the history of their transactions, ***without knowing*
 
 This can be considered as behavioral analysis, and used for predictions, recommendations and other purposes.
 
-## Link to Jupyter Notebook: ... TBD
+Link to Jupyter Notebook: ... TBD
 
 
 See more workshops at https://www.meetup.com/Blockchain-Analytics-AI/
